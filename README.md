@@ -2,7 +2,7 @@
 
 An end-to-end data project combining machine learning prediction with SQL-based analytics and a live deployed web app. Predicts the likelihood of heart disease from clinical features, stores results in MySQL, and surfaces insights through a web interface.
 
-🔗 **Live Demo:** [heart-disease-prediction-analytics.vercel.app](https://heart-disease-prediction-analytics.vercel.app)
+
 
 ---
 
